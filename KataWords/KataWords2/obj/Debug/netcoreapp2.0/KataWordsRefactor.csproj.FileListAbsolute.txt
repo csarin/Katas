@@ -1,0 +1,11 @@
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWordsRefactor.deps.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWordsRefactor.runtimeconfig.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWordsRefactor.runtimeconfig.dev.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWordsRefactor.dll
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWordsRefactor.pdb
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.csproj.CoreCompileInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.AssemblyInfoInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.AssemblyInfo.cs
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.dll
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.pdb
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWordsRefactor.csprojResolveAssemblyReference.cache

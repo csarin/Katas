@@ -1,0 +1,11 @@
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWords2.deps.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWords2.runtimeconfig.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWords2.runtimeconfig.dev.json
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWords2.dll
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\bin\Debug\netcoreapp2.0\KataWords2.pdb
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.csprojResolveAssemblyReference.cache
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.csproj.CoreCompileInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.AssemblyInfoInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.AssemblyInfo.cs
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.dll
+c:\users\crene\source\repos\ConsoleApp1\KataWords2\obj\Debug\netcoreapp2.0\KataWords2.pdb

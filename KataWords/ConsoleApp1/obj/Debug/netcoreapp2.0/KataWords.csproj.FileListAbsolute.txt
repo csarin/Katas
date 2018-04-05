@@ -1,0 +1,11 @@
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\KataWords.deps.json
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\KataWords.runtimeconfig.json
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\KataWords.runtimeconfig.dev.json
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\KataWords.dll
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\KataWords.pdb
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.csproj.CoreCompileInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.AssemblyInfoInputs.cache
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.AssemblyInfo.cs
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.dll
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.pdb
+c:\users\crene\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\KataWords.csprojResolveAssemblyReference.cache
